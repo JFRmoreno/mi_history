@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Esta es la historia de Cielo Roldan
+=======
+Esta es la historia de Javier Moreno
+>>>>>>> cabecera
 
 Tengo 27 años y voy hacer Data Science
 y viajara a Canada y vivira en new brunswyck
